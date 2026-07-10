@@ -6,13 +6,13 @@ A modern, responsive, and visually appealing **College Fest Landing Page** built
 
 ## 🚀 Live Demo
 
-🔗 https://your-live-demo-link.com
+https://varaprasad-225.github.io/College-Fest-Landing-Page/
 
 ---
 
 ## 📂 GitHub Repository
 
-🔗 https://github.com/yourusername/college-fest-landing-page
+https://github.com/VaraPrasad-225/College-Fest-Landing-Page
 
 ---
 
@@ -83,13 +83,6 @@ _Add Screenshot Here_
 
 ### 🖼️ Gallery Section
 
-_Add Screenshot Here_
-
-### 📱 Mobile View
-
-_Add Screenshot Here_
-
----
 
 ## 🎯 Project Highlights
 
