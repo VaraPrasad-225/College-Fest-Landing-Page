@@ -75,13 +75,16 @@ College-Fest-Landing-Page/
 
 ### 🏠 Hero Section
 
-_Add Screenshot Here_
+<img width="950" height="436" alt="Screenshot 2026-07-10 115902" src="https://github.com/user-attachments/assets/f624df57-884e-47a1-869a-c32565726054" />
+
 
 ### 🎪 Events Section
 
-_Add Screenshot Here_
+<img width="923" height="427" alt="Screenshot 2026-07-10 115944" src="https://github.com/user-attachments/assets/287462d1-90e0-4c1e-8a7d-b1468f90b341" />
+
 
 ### 🖼️ Gallery Section
+![Uploading Screenshot 2026-07-10 120012.png…]()
 
 
 ## 🎯 Project Highlights
